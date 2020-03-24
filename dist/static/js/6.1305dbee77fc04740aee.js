@@ -1,0 +1,2 @@
+webpackJsonp([6],{ESRk:function(e,t){},ls8K:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"singer-list"},[this._v("\n  singer-list\n")])},staticRenderFns:[]};var i=n("VU/8")({name:"SingerList"},s,!1,function(e){n("ESRk")},"data-v-c10f3592",null);t.default=i.exports}});
+//# sourceMappingURL=6.1305dbee77fc04740aee.js.map
