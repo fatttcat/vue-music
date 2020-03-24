@@ -1,7 +1,5 @@
 # vue_music
-
-> music
-
+> API https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
 ## Build Setup
 
 ``` bash
