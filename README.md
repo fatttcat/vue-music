@@ -1,6 +1,6 @@
 # vue_music
 
-> music
+> API文档 https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
 
 ## Build Setup
 
